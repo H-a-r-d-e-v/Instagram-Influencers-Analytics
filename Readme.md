@@ -53,3 +53,7 @@ The dataset contains information about top Instagram influencers, including:
 
 // Like-to-Follower Ratio
 [total_likes] / [followers]
+
+
+<img width="1918" height="994" alt="Instagram Influencers Dashboard" src="https://github.com/user-attachments/assets/f519cf45-a02f-4ded-8188-933c1a995125" />
+
